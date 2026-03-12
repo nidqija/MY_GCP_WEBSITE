@@ -25,7 +25,7 @@ function App() {
       <img height={"100px"} src="https://codelabs.developers.google.com/static/codelabs/cloud-starting-cloudrun-jobs/img/1965fab24c502bd5.png" alt="Google Cloud Run Logo" />
       <h1>GCP Cloud Run Deployment Workshop</h1>
       <div className="status-row">
-        <h2>Hello! Default User is here!</h2>
+        <h2>Hello! Raziq Din is here!</h2>
         <p>Server Response: {message}</p>
       </div>
     </div>
